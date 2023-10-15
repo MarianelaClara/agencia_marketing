@@ -3,5 +3,5 @@ django-cors-headers==4.3.0
 djangorestframework==3.14.0
 Pillow==10.0.1
 django-storages==1.14.2
-django-ckeditor-5==0.2.10
+django-ckeditor==6.7.0
 psycopg2==2.9.9
